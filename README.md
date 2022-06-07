@@ -1,13 +1,13 @@
 Hi 👋 My name is Nazar Ostafiichuk
 ==================================
 
-Frontend Developer - Open to new opportunities
+I'am looking for job now - Frontend Developer
 ----------------------------------------------
 
 I am a persistent, initiative, cordial, and hard-working person looking for a job in Front-end development. I am really inspired and motivated to build my career in this area. I have good knowledge of Typescript, JavaScript, HTML, CSS, and React. Also, ready to learn Angular and Vue. I enjoy delivering results and always do my best to achieve the goal. I am a team player and could be a leader. Also, I am friendly, proactive, and adaptable.
 
     🌍  I'm based in Ivano-Frankivsk region, city Kolomyia.
-    ✉️  You can contact me at nostafiichuk@gmail.com
+    📩  You can contact me at nostafiichuk@gmail.com
 
 <p align="left">
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
