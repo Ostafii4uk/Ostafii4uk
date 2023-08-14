@@ -4,7 +4,7 @@ Hi 👋 My name is Nazar Ostafiichuk
 Junior Frontend Developer
 ----------------------------------------------
 
-I am a persistent, initiative, cordial, and hard-working person looking for a job in Front-end development. I am really inspired and motivated to build my career in this area. I have good knowledge of Typescript, JavaScript, HTML, CSS, React and Vue. Also, ready to learn Angular. I enjoy delivering results and always do my best to achieve the goal. I am a team player and could be a leader. Also, I am friendly, proactive, and adaptable.
+As a front-end engineer with 1 year of experience in web and mobile development, I approach every project with a deep commitment to delivering exceptional results. I am a persistent, initiative, and hard-working person. I have good knowledge and expirience of Typescript, JavaScript, HTML, CSS, React, Redux, Vue, Vuex, Chrome extensions. Also, ready to learn Angular and other libraries. I enjoy delivering results and always do my best to achieve the goal. Also, I am friendly, proactive and adaptable.
 
     🌍  I'm based in Ivano-Frankivsk region, city Kolomyia.
     📩  You can contact me at nostafiichuk@gmail.com
