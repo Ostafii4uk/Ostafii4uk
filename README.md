@@ -1,7 +1,7 @@
 Hi 👋 My name is Nazar Ostafiichuk
 ==================================
 
-Junior Frontend Developer
+Frontend Developer
 ----------------------------------------------
 
 As a front-end engineer with 1 year of experience in web and mobile development, I approach every project with a deep commitment to delivering exceptional results. I am a persistent, initiative, and hard-working person. I have good knowledge and expirience of Typescript, JavaScript, HTML, CSS, React, Redux, Vue, Vuex, Chrome extensions. Also, ready to learn Angular and other libraries. I enjoy delivering results and always do my best to achieve the goal. Also, I am friendly, proactive and adaptable.
