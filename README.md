@@ -66,7 +66,7 @@ As a front-end engineer with 1 year of experience in web and mobile development,
   <a href="http://www.instagram.com/ostafii4uk" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
   </a>
-  <a href="https://www.linkedin.com/in/nazar-ostafiichuk-361aa11a2/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/nazar-ostafiichuk/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
 </p>
